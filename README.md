@@ -16,14 +16,14 @@ I've uploaded all libraries included in this project, a number of which are auth
 
 a quick run-down of libraries I've written:
 -----------------------------------------
-DataLog
-DataWrapper
-Draw
-Error
-GraphicConstants
-InputProcessor_v3  
-Message
-Prove_v3
-SystemConstants
-TempCalc_v2
-Util
+DataLog; 
+DataWrapper; 
+Draw; 
+Error; 
+GraphicConstants; 
+InputProcessor_v3; 
+Message; 
+Prove_v3; 
+SystemConstants; 
+TempCalc_v2; 
+Util; 
